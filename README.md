@@ -1,16 +1,35 @@
-## Hi there 👋
+# Yooooo, I'm Andrii Stepanov (andreqko69/Kogaro)
 
-<!--
-**andreqko69/andreqko69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack engineer who loves building scalable web applications and solving complex problems through elegant code.
 
-Here are some ideas to get you started:
+Gonna try to keep this README up to date😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:**
+- React, React Native, Electron, Next, Vue, Nuxt, Meteor
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS, LESS, SCSS
+- Redux, Zustand, React Query, Apollo
+
+**Backend:**
+- Node, Express, Nest, Hono, Meteor
+- RESTful APIs, GraphQL
+- WebSockets, Real-time applications
+
+**Database, Tools & Other:**
+- PostgreSQL, MongoDB, Redis
+- Docker
+- Git, GitHub Actions, CI/CD
+- AWS, Vercel, Railway
+- Security best practices
+
+**Testing**
+- Jest, Mocha
+- Cypress, Playwright
+- Puppeteer
+
+## What I'm learning right now
+
+- Kubernetes
+- TanStack
