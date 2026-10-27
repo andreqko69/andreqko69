@@ -1,35 +1,74 @@
 # Yooooo, I'm Andrii Stepanov (andreqko69/Kogaro)
 
-I'm a passionate full-stack engineer who loves building scalable web applications and solving complex problems through elegant code.
+I'm a passionate full-stack engineer (backend-leaning) who loves building scalable web and mobile apps and solving complex problems through elegant code.
 
 Gonna try to keep this README up to date😅
 
+## 🔭 What I'm up to
+
+- 🐝 Building features, integrations and AI tooling for [Hive](https://hive.com), a productivity platform for teams
+- 💳 Building a mobile loyalty platform from scratch: NestJS + GraphQL + PostgreSQL backend, React Native app, in-app subscriptions and an AI assistant
+- 🏆 Won an internal cybersecurity hackathon (master's degree in cybersecurity, so breaking things is a hobby)
+
 ## Tech Stack
 
-**Frontend:**
-- React, React Native, Electron, Next, Vue, Nuxt, Meteor
+**Languages:**
 - TypeScript, JavaScript (ES6+)
+
+**Frontend:**
+- React, Next, Vue, Nuxt, Electron, Meteor
 - HTML5, CSS3, Tailwind CSS, LESS, SCSS
-- Redux, Zustand, React Query, Apollo
+- Redux, Zustand, TanStack (Query, Table), Apollo Client
+
+**Mobile:**
+- React Native, Expo (EAS builds, OTA updates)
+- In-app purchases (App Store, Google Play), push notifications, Apple Wallet passes
 
 **Backend:**
 - Node, Express, Nest, Hono, Meteor
-- RESTful APIs, GraphQL
-- WebSockets, Real-time applications
+- GraphQL (Apollo), RESTful APIs, Webhooks
+- WebSockets, GraphQL Subscriptions, real-time collaboration (Yjs / CRDTs)
+- Background jobs, cron, event-driven integrations (Jira, HubSpot, Salesforce)
+- OAuth, JWT, auth & access control
 
-**Database, Tools & Other:**
+**AI & LLM:**
+- OpenAI API, Vercel AI SDK, Google Gemini
+- MCP (Model Context Protocol) servers & tools, LLM tool calling, streaming
+- AI coding agents: Claude Code, Cursor
+
+**Databases:**
 - PostgreSQL, MongoDB, Redis
-- Docker
+- TypeORM, query & index optimization
+
+**Cloud & DevOps:**
+- AWS (Lambda, S3, ECS, ECR, SQS, DynamoDB, EventBridge, CloudWatch)
+- Docker, Kubernetes
+- Vercel, Railway
 - Git, GitHub Actions, CI/CD
-- AWS, Vercel, Railway
-- Security best practices
+- Monorepos: pnpm workspaces, Turborepo
 
-**Testing**
-- Jest, Mocha
-- Cypress, Playwright
-- Puppeteer
+**Observability:**
+- Datadog, Sentry, CloudWatch, structured logging (Pino)
 
-## What I'm learning right now
+**Testing:**
+- Jest, Vitest, Mocha, Supertest
+- Playwright, Cypress, Puppeteer
 
-- Kubernetes
-- TanStack
+**Security:**
+- Security best practices, secure coding, vulnerability discovery
+
+## 🌱 What I'm learning right now
+
+- Python 🐍
+- Terraform (Infrastructure as Code)
+
+## 📜 Certificates
+
+- [Docker & Kubernetes](https://lms.robotdreams.cc/certificate/40a17052e09c9e50f7268d7ec7072b09) · robot_dreams · 2025
+- [Architecture of High Loads](https://lms.robotdreams.cc/certificate/5160092f06b74fb1f1a4c1c1057de6f5) · robot_dreams · 2025
+- [AWS for Beginners](https://lms.robotdreams.cc/certificate/039b7113cbe2658e0892d5f682988ba3) · robot_dreams · 2024
+
+## 📫 Reach me
+
+- [LinkedIn](https://www.linkedin.com/in/andrii-stepanov-03a889195/)
+- andreqkodev@gmail.com
