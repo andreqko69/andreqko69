@@ -4,12 +4,6 @@ I'm a passionate full-stack engineer (backend-leaning) who loves building scalab
 
 Gonna try to keep this README up to date😅
 
-## 🔭 What I'm up to
-
-- 🐝 Building features, integrations and AI tooling for [Hive](https://hive.com), a productivity platform for teams
-- 💳 Building a mobile loyalty platform from scratch: NestJS + GraphQL + PostgreSQL backend, React Native app, in-app subscriptions and an AI assistant
-- 🏆 Won an internal cybersecurity hackathon (master's degree in cybersecurity, so breaking things is a hobby)
-
 ## Tech Stack
 
 **Languages:**
@@ -22,7 +16,6 @@ Gonna try to keep this README up to date😅
 
 **Mobile:**
 - React Native, Expo (EAS builds, OTA updates)
-- In-app purchases (App Store, Google Play), push notifications, Apple Wallet passes
 
 **Backend:**
 - Node, Express, Nest, Hono, Meteor
@@ -34,14 +27,15 @@ Gonna try to keep this README up to date😅
 **AI & LLM:**
 - OpenAI API, Vercel AI SDK, Google Gemini
 - MCP (Model Context Protocol) servers & tools, LLM tool calling, streaming
-- AI coding agents: Claude Code, Cursor
+- AI coding agents: Claude Code, OpenAI Codex, Cursor
 
 **Databases:**
 - PostgreSQL, MongoDB, Redis
-- TypeORM, query & index optimization
+- Prisma, Drizzle, TypeORM
+- Query & index optimization
 
 **Cloud & DevOps:**
-- AWS (Lambda, S3, ECS, ECR, SQS, DynamoDB, EventBridge, CloudWatch)
+- AWS
 - Docker, Kubernetes
 - Vercel, Railway
 - Git, GitHub Actions, CI/CD
