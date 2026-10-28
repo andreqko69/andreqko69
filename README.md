@@ -51,18 +51,18 @@ Gonna try to keep this README up to date😅
 **Security:**
 - Security best practices, secure coding, vulnerability discovery
 
-## 🌱 What I'm learning right now
+## What I'm learning right now
 
-- Python 🐍
+- Python 
 - Terraform (Infrastructure as Code)
 
-## 📜 Certificates
+## Certificates
 
 - [Docker & Kubernetes](https://lms.robotdreams.cc/certificate/40a17052e09c9e50f7268d7ec7072b09) · robot_dreams · 2025
 - [Architecture of High Loads](https://lms.robotdreams.cc/certificate/5160092f06b74fb1f1a4c1c1057de6f5) · robot_dreams · 2025
 - [AWS for Beginners](https://lms.robotdreams.cc/certificate/039b7113cbe2658e0892d5f682988ba3) · robot_dreams · 2024
 
-## 📫 Reach me
+## Reach me
 
 - [LinkedIn](https://www.linkedin.com/in/andrii-stepanov-03a889195/)
 - andreqkodev@gmail.com
